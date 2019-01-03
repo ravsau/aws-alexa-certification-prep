@@ -28,7 +28,7 @@ CloudWatch, and Amazon DynamoDB)
 4.4 Implement Alexa service interfaces (audio player, video player, and screens)\
 4.5 Parse Alexa JSON requests and provide responses
 ### Domain 5: Test, Validate, and Troubleshoot
-5.1 Debug and troubleshoot using Amazon CloudWatch or other tools Video: https://www.youtube.com/watch?v=1bQ5rOV1z-k\
+5.1 Debug and troubleshoot using Amazon CloudWatch or other tools.  Video: https://www.youtube.com/watch?v=1bQ5rOV1z-k\
 5.2 Use the Alexa developer testing tools\
 5.3 Perform beta testing\
 5.4 Troubleshoot errors in the interaction model
