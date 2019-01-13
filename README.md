@@ -58,3 +58,51 @@ AWS Documentation:
 ## AWS Whitepapers 
 AWS Security Best Practices: https://aws.amazon.com/whitepapers/aws-security-best-practices/
 
+
+
+-----------
+Sample Questions
+--------
+1) What AWS Service is best used as a compute layer for building dynamic Alexa skills ?\
+  a) App Engine\
+  b) Amazon EC\
+  c) Amazon Lambda\
+  d) Amazon S3
+
+
+2) What can used for storing user data between sessions in the best way ?\
+   a) Alexa Persistant Storage\
+   b) Amazon DynamoDB\
+   c) Amazon S3\
+   d) Amazon EC2 
+
+
+3) What can you use to test your skill ? Select all that apply\
+ a) Third party softwares\
+ b) Simulator provided on the Test page of the developer console.\
+ c) Invoke and simulate api with AWS CLI\
+ d) ASk Amazon to test your skill for a fee
+ 
+ 4) What things are required before you publish your skill? Select all that apply.\
+ a. Privacy Policy\
+ b. A registered company in your country\
+ c. Invocation Name\
+ D. Skill Icons
+ 
+ 5. How many different sizes of skill icons do you need to supply during the certification proces ?\
+   .\
+   A. 3 sizes\
+   B. 2 Sizes\
+   C. 4 Sizws\
+   D. 1 Size\
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
